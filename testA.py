@@ -1,5 +1,1 @@
-a = 124
-b = 35678
-
-d = 888
-g = 9999
+a = 'This is a test for Git'
